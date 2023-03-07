@@ -1,6 +1,8 @@
 <p align="center">
-    <img src="https://4kwallpapers.com/images/wallpapers/chainsaw-man-denji-1920x1080-8958.jpg">
+    <img src="https://c4.wallpaperflare.com/wallpaper/110/521/171/artwork-chainsaw-man-makima-chainsaw-man-anime-girls-hd-wallpaper-preview.jpg">
 </p>
+
+# HELLO WORLD :wave:
 
 - 👋 Hi, I’m @Derajatul
 - 👀 I’m interested in web dev
@@ -8,12 +10,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p>Skills</p>
+## Skills :
 
 <p align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+    <img height="40px" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
+    <img height="40px" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+    <img height="40px" align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
 </p>
 
 <!---
