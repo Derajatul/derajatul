@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/derajatul" target="blank"><img src="https://img.shields.io/twitter/follow/derajatul?logo=twitter&style=for-the-badge" alt="derajatul" /></a> </p>
 
-- 🔭 I’m currently working on **personal**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **Javascript**
 
