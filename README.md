@@ -1,4 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=derajatul&label=Profile%20views&color=0e75b6&style=flat" alt="derajatul" /> 
-<img src="https://i.pinimg.com/736x/9d/e0/34/9de034bd03feb13f6c6a01045537b58e.jpg" alt="one piece" />
+<div style="width: 100%; overflow: hidden;">
+    <img src="[path-to-your-image.jpg](https://i.pinimg.com/originals/2f/42/40/2f424061defc459cb66d601d3485962a.jpg)" alt="One piece" style="width: 100%; height: auto; display: block;">
+</div>
 
 
