@@ -1,20 +1,12 @@
+![Visitors](https://komarev.com/ghpvc/?username=Derajatul&color=blue&style=flat-square)
+
 # 👋 <sub>Hi, I'm Dera from Indonesia</sub>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE53BA&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+TypeScript+%2B+Next.js;Always+learning+something+new...;Open+Source+Explorer+🧭)](https://git.io/typing-svg)
 
-![Visitors](https://komarev.com/ghpvc/?username=Derajatul&color=blue&style=flat-square)
-
 ---
 
-## 🇮🇩 Tentang Saya  
-<sub>
-• Fullstack Developer — fokus pakai <strong>Next.js (App Router) + TypeScript</strong>  
-• Sedang mendalami <strong>integrasi AI</strong>, <strong>Prisma</strong>, dan <strong>kontribusi open source</strong>  
-</sub>
-
----
-
-## 🇬🇧 About Me  
+## About Me  
 <sub>
 • Fullstack Developer — mainly building with <strong>Next.js + TypeScript</strong>  
 • Currently exploring <strong>AI integration</strong>, <strong>Prisma</strong>, and <strong>Open Source contribution</strong>  
