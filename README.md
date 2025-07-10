@@ -1,10 +1,9 @@
-# 👋 Hi, I'm Dera from Indonesia 
+# 👋 Hi, I'm Dera from Indonesia
 
-
-![cat coder](https://github.com/user-attachments/assets/0216f587-7811-48e1-b8bf-50482b2bbf03)  
+![cat meme](https://i.imgur.com/nzc8d61.gif)  
 <sup><sub>Focus mode: enabled (for now)</sub></sup>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+TypeScript+%2B+Next.js;Always+learning+something+new...;Open+Source+Explorer+🧭)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE53BA&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+TypeScript+%2B+Next.js;Always+learning+something+new...;Open+Source+Explorer+🧭)](https://git.io/typing-svg)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Derajatul&color=blue&style=flat-square)
 
@@ -13,26 +12,13 @@
 ## 💻 About Me
 
 - Fullstack Developer — mainly building with **Next.js (App Router) + TypeScript**
-- Currently exploring **AI integration**, **Prisma schema design**, and **open-source contribution**
+- Exploring **AI integration**, **Prisma**, and **Open Source Contribution**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🖼️ Frontend
-![Frontend](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite)
-
-### 🧠 Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,vercel)
-
-### 🗄️ Database
-![Database](https://skillicons.dev/icons?i=postgres,prisma)
-
-### 🎨 Design & Prototyping
-![Design](https://skillicons.dev/icons?i=figma,framer)
-
-### 🔧 Tools & DevOps
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,postman)
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,prisma,postgres,tailwind,figma,vscode,git,vercel)
 
 ---
 
@@ -75,17 +61,10 @@ _Coming soon..._
 
 ---
 
-## 🐱 Coding Vibes
-
-![cat meme](https://i.imgur.com/nzc8d61.gif)  
-<sub><sup>Sometimes it be like that</sup></sub>
-
----
-
 ## ☕ Let's Connect
 
-- 💼 LinkedIn → [linkedin.com/in/moh-tb-derajatul-ula-1aa110235](https://www.linkedin.com/in/moh-tb-derajatul-ula-1aa110235/)
-- 📧 Email → `derajatul@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/moh-tb-derajatul-ula-1aa110235/)
+- 📧 Email: `derajatul@gmail.com`
 
 ---
 
