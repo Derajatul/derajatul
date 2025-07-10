@@ -2,9 +2,6 @@
 
 # 👋 Hi, I'm Dera from Indonesia
 
-![cat meme](https://i.imgur.com/nzc8d61.gif)  
-Focus mode: enabled (for now)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE53BA&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+TypeScript+%2B+Next.js;Always+learning+something+new...;Open+Source+Explorer+🧭)](https://git.io/typing-svg)
 
 ---
@@ -42,6 +39,9 @@ Focus mode: enabled (for now)
 ## 📌 Fun Fact
 
 Currently learning open source and AI for the future
+
+![cat meme](https://i.imgur.com/nzc8d61.gif)  
+Focus mode: enabled (for now)
 
 ---
 
