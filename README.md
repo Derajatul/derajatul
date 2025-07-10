@@ -41,7 +41,7 @@ Focus mode: enabled (for now)
 
 ## 📌 Fun Fact
 
-Sedang belajar open source dan AI untuk masa depan
+Currently learning open source and AI for the future
 
 ---
 
