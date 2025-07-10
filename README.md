@@ -1,47 +1,48 @@
-![Visitors](https://komarev.com/ghpvc/?username=Derajatul&color=blue&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Derajatul&color=DE53BA&style=flat-square)
 
-# 👋 <sub>Hi, I'm Dera from Indonesia</sub>
+# 👋 Hi, I'm Dera from Indonesia
+
+![cat meme](https://i.imgur.com/nzc8d61.gif)  
+Focus mode: enabled (for now)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE53BA&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+TypeScript+%2B+Next.js;Always+learning+something+new...;Open+Source+Explorer+🧭)](https://git.io/typing-svg)
 
 ---
 
-## About Me  
-<sub>
-• Fullstack Developer — mainly building with <strong>Next.js + TypeScript</strong>  
-• Currently exploring <strong>AI integration</strong>, <strong>Prisma</strong>, and <strong>Open Source contribution</strong>  
-</sub>
+## 🧠 About Me
+
+- Fullstack Developer — mainly building with **Next.js (App Router) + TypeScript**
+- Currently exploring **AI integration**, **Prisma**, and **Open Source contribution**
 
 ---
 
-<sub>🧰 Tech Stack</sub>  
+## 🧰 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,prisma,postgres,tailwind,figma,vscode,git,vercel" alt="tech stack icons" />
 </p>
 
 ---
 
-<sub>🏆 GitHub Trophies</sub>  
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Derajatul&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
 
-<sub>☕ Let's Connect</sub>  
-<sub>
-• 💼 [LinkedIn](https://www.linkedin.com/in/moh-tb-derajatul-ula-1aa110235/)  
-• 📧 Email: derajatul@gmail.com  
-</sub>
+## ☕ Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/moh-tb-derajatul-ula-1aa110235/)
+- 📧 Email: derajatul@gmail.com
 
 ---
 
-<sub>📌 Fun Fact</sub>  
-<sub><i>Sedang belajar open source dan AI untuk masa depan</i></sub>
+## 📌 Fun Fact
 
-![cat meme](https://i.imgur.com/nzc8d61.gif)  
-<sub>Focus mode: enabled (for now)</sub>
+Sedang belajar open source dan AI untuk masa depan
 
 ---
 
-<sub><sup>Last updated: 10 July 2025</sup></sub>
+<sub>Last updated: 10 July 2025</sub>
